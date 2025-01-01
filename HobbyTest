@@ -1,1 +1,13 @@
+Q1)    what is the address translation scheme?
+Answer:what is the address translation sheme
+The address translation scheme refers to the methods used to convert
+network addresses from one format to another, usually in
+the context of networking and internet protocols.
+Q2)whot is hobby kerne?
+A "hobby kernel" is typically an operating system kernel developed by individuals or small groups as a personal project or for educational purposes
+Q3)what is the role of operating system in hardware abstraction?
+answer:The operating system (OS) plays a crucial role in hardware abstraction, providing a layer that allows software applications to interact with hardware without needing to know the details of the hardware's implementation. Here are the key roles the OS plays in hardware abstraction:
+
+Device Drivers: The OS uses device drivers to communicate with hardware components
+Resource Management: The OS manages hardware resources such as CPU, memory, and storage.
 
